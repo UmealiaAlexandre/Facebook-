@@ -1,0 +1,182 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+body {
+	font-family: sans-serif;
+}
+.login-box h3 {
+	padding: 30px;
+	color: blue;
+	text-align: center; 
+}
+.login-box input {
+	width: 100%;
+	height: 40px;
+	margin: 10px;
+}
+.login-box .login-btn {
+	width: 100%;
+	height: 40px;
+	background: rgba(0,0,255,0.9);
+	color: #fff;
+	text-align: center;
+	border-radius: 5px;
+	margin: 10px;
+}
+.login-box a {
+	padding: 10px;
+	text-decoration: none;
+}
+.login-box p {
+	padding: 15px;
+	text-align: center;
+}
+.login-box .create-btn {
+	width: 200px;
+	height: 40px;
+	padding: 10px;
+	text-align: center;
+	background: green;
+	border-radius: 5px;
+	color: #fff;
+	font-size: 18px;
+	margin: 30px;
+}
+.lang-list {
+	display: flex;
+	margin: 20px;
+}
+.lang-list .lang-1 {
+	padding-left: 30px;
+}
+.lang-list .lang-1 p.active {
+	color: rgba(0,0,0,0.7);
+}
+.lang-list .lang-1 {
+	padding-right: 50px;
+}
+.end p {
+	padding: 10px;
+	text-align: center;
+}
+.forg-box h3 {
+	padding: 30px;
+	color: blue;
+	text-align: center; 
+}
+.forg-box label h4 {
+	padding: 0 10px 0;
+}
+.forg-box input {
+	width: 100%;
+	height: 40px;
+	margin: 10px;
+}
+.forg-box .button {
+	display: flex;
+}
+.forg-box .forg-btn {
+	width: 50%;
+	height: 40px;
+	background: rgba(0,0,255,0.9);
+	color: #fff;
+	text-align: center;
+	border-radius: 5px;
+	margin: 10px;
+}
+.forg-box .cancel-btn{
+	width: 50%;
+	height: 40px;
+	background: #fff;
+	color: blue;
+	text-align: center;
+	border-radius: 5px;
+	margin: 10px;
+}
+.forg-box a {
+	padding: 10px;
+	text-decoration: none;
+}
+.forg-box p {
+	padding: 15px;
+	text-align: center;
+}
+.jf {
+	background: darkblue;
+	text-align: center;
+	padding: 20px;
+	color: #fff;
+}
+.c-1 {
+	text-align: center;
+	padding: 20px;
+}
+.c-1-content {
+	display: flex;
+	margin: 5px;
+}
+.c-1-content p {
+	font-weight: 18px;
+	padding: 10px;
+}
+.c-1-content input {
+	width: 90%;
+	height: 40px;
+}
+.c-btn {
+	width: 200px;
+	height: 40px;
+	text-align: center;
+	background: blue;
+	border-radius: 5px;
+	color: #fff;
+	font-size: 18px;
+	margin: 30px;
+}
+.c-link p {
+	padding: 20px;
+}
+.c-link p a {
+	text-decoration: none;
+}
+.c-link p.sige {
+	padding: 0;
+}
+.jf-1 {
+	background: darkblue;
+	text-align: center;
+	padding: 20px;
+	color: #fff;
+}
+.jf-1 a {
+	text-decoration: none;
+	color: #fff;
+}
+.jf-1 a li {
+	float: left;
+}
+.c-2 {
+	text-align: center;
+	padding: 20px;
+	margin: 20px 10px 20px 15px;
+}
+.c-2-content {
+	display: flex;
+}
+.c-2-content input {
+	margin-left: 20px;
+}
+.c-3-content p {
+	padding: 10px;
+}
+.c-3-content input {
+	width: 100%;
+	height: 40px;
+}
+.c-3 {
+	text-align: center;
+	padding: 20px;
+	margin: 20px 10px 20px 15px;
+}
